@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/23Q01N86/git-Banner.png"  />
+  <img height="400" src="https://i.ibb.co.com/tppH2cyS/git-Banner.png"  />
 </div>
 
 ###
@@ -58,6 +58,7 @@
 <p align="left">Hope to become a full-stack MERN Developer .<br>Explore Javascript more and learn Typescript efficiently.</p>
 
 ###
+
 <!---
 TazwoarCommits/TazwoarCommits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
