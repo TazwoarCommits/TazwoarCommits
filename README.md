@@ -13,14 +13,14 @@
 
 <h2>About Me</h2>
 
-<p>👋 Hi, I'm Fahim Tazwoar Sourav!
-🚀 Frontend Wrb Developer | React & JavaScript Enthusiast
-💡 Passionate about building interactive and user-friendly web apps
+<p>👋 Hi, I'm Fahim Tazwoar Sourav!<br>
+🚀 Frontend Wrb Developer | React & JavaScript Enthusiast<br>
+💡 Passionate about building interactive and user-friendly web apps<br>
 🌱 Always learning and open to collaborations!</p>
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TazwoarCommits&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=TazwoarCommits&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ###
 
