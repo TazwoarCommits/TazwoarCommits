@@ -86,7 +86,7 @@
 
 <ul align="left">
   <li>Hope to become a full-stack MERN Developer.</li> 
-  <li>Explore Javascript more and learn Typescript efficiently.</li>
+  <li>For now, Explore Javascript more and learn Typescript efficiently.</li>
 </ul>
 
 ###
