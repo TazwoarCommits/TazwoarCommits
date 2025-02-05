@@ -20,18 +20,22 @@
 
 ###
 
+
 <h2 align="left">Current Activities</h2>
+
 
 ###
 
 <ul align="left">
-  <li>Exploring NEXT.js .</li>
-  <li>Polishing the usage of access token and payment gateway.</li>
+  <li>Exploring NEXT.Js .</li>
+  <li>Polishing the usage of access token (JWT) and payment gateway (stripe & SSLCommerz).</li>
 </ul>
 
 ###
 
+
 <h2 align="left">Tools I Can Use</h2>
+
 
 ###
 
@@ -52,21 +56,23 @@
 
 ###
 
+
 <h2 align="left">Reach Me Out</h2>
+
 
 ###
 
 <div align="center">
-  <h3>Contact : 01568417786</h3>
   <a href="https://www.linkedin.com/in/fahim-tazwoar-475a4234a"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="https://www.facebook.com/fahimtazwoar.sourav"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <h3>Contact : 01568417786</h3>
+  <h3>Email : tazwoarlives@gmail.com</h3>
 </div>
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TazwoarCommits)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazwoarCommits&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TazwoarCommits)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazwoarCommits&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
