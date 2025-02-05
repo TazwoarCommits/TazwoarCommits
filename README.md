@@ -64,8 +64,8 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TazwoarCommits&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TazwoarCommits)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazwoarCommits&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
