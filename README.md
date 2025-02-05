@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="400" src="https://i.ibb.co.com/tppH2cyS/git-Banner.png"  />
-</div>
+
+![logo](https://github.com/TazwoarCommits/TazwoarCommits/blob/main/git-Banner.png)
 
 ###
 
