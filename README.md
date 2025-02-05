@@ -20,7 +20,7 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TazwoarCommits&theme=dark&hide_border=true)](https://streak-stats.demolab.com)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ###
 
