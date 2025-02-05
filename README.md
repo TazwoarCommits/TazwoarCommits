@@ -3,11 +3,24 @@
 
 ###
 
-<h1 align="center">Hi, It's  Fahim Tazwoar</h1>
+<h1 align="center">Hi, It's  Fahim Tazwoar Sourav</h1>
 
 ###
 
 <p align="center">I am a frontend web developer specialized in MERN stack .</p>
+
+###
+
+<h2>About Me</h2>
+
+<p>👋 Hi, I'm Fahim Tazwoar Sourav!
+🚀 Frontend Wrb Developer | React & JavaScript Enthusiast
+💡 Passionate about building interactive and user-friendly web apps
+🌱 Always learning and open to collaborations!</p>
+
+###
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TazwoarCommits&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ###
 
