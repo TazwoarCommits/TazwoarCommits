@@ -20,7 +20,14 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TazwoarCommits)](https://git.io/streak-stats)
+<h2 align="left">Current Activities</h2>
+
+###
+
+<ul align="left">
+  <li>Exploring NEXT.js .</li>
+  <li>Polishing the usage of access token and payment gateway.</li>
+</ul>
 
 ###
 
@@ -42,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+
 ###
 
 <h2 align="left">Reach Me Out</h2>
@@ -49,17 +57,18 @@
 ###
 
 <div align="center">
+  <h5>Contact : 01568417786</h5>
   <a href="https://www.linkedin.com/in/fahim-tazwoar-475a4234a"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="https://www.facebook.com/fahimtazwoar.sourav"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 </div>
 
 ###
 
-<h2 align="left">Current Overview</h2>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TazwoarCommits&theme=dark)](https://git.io/streak-stats)
 
-###
 
-<p align="left">Exploring NEXT.js .<br>Polishing the use of access token and payment gateway .</p>
+
+
 
 ###
 
@@ -67,7 +76,10 @@
 
 ###
 
-<p align="left">Hope to become a full-stack MERN Developer .<br>Explore Javascript more and learn Typescript efficiently.</p>
+<ul align="left">
+  <li>Hope to become a full-stack MERN Developer.</li> 
+  <li>Explore Javascript more and learn Typescript efficiently.</li>
+</ul>
 
 ###
 
