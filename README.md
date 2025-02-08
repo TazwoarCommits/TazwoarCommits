@@ -27,8 +27,10 @@
 ###
 
 <ul align="left">
-  <li>Exploring NEXT.Js .</li>
+  <li>Currently, learning Next.Js.</li>
   <li>Polishing the usage of access token (JWT) and payment gateway (stripe & SSLCommerz).</li>
+  <li>Exploring more about Javascript</li>
+  <li>Getting used to Tanstack Query</li>
 </ul>
 
 ###
