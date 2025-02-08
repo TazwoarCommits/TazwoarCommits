@@ -73,9 +73,18 @@
 
 <h2 align="left">Stats</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TazwoarCommits)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazwoarCommits&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=TazwoarCommits" alt="GitHub Streak" />
+  </a>
+</p>
 
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazwoarCommits&theme=dark&layout=donut" alt="Top Languages" />
+  </a>
+</p>
 
 
 ###
@@ -87,6 +96,7 @@
 <ul align="left">
   <li>Hope to become a full-stack MERN Developer.</li> 
   <li>For now, Explore Javascript more and learn Typescript efficiently.</li>
+  <li>Currently, learning Next.Js.</li>
 </ul>
 
 ###
